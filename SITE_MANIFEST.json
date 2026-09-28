@@ -1,0 +1,207 @@
+{
+  "domain": "cherimoyafare",
+  "niche": "Artisanal Cherimoya Preserves & Botanical Fruit Gastronomy",
+  "design_concept": "Warm Sepia & Roasted Timber Atelier",
+  "archetype_id": "sepia_timber",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "fresh_culinary_orchard_harvest.jpg",
+      "size_kb": 157.42,
+      "md5": "900b56763b66d53425a4c55b5ba040e0",
+      "description": "Organic orchard harvest basket with sweet nuts, aromatic herbs, and citrus",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "culinary_salad_bowl.jpg",
+      "size_kb": 226.53,
+      "md5": "133f85a5da5cb0975afb33150f470b60",
+      "description": "Salad bowl",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "cherimoyafare_asset_3.jpg",
+      "size_kb": 81.4,
+      "md5": "6af1214666d68c590a13ff39accfda86",
+      "description": "A. cherimola seeds 2",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "cherimoyafare_asset_4.jpg",
+      "size_kb": 103.45,
+      "md5": "feffbdcad3d5ff0cb4fb561ffa9b4c24",
+      "description": "A. cherimola seeds 3",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "cherimoyafare_asset_5.jpg",
+      "size_kb": 126.68,
+      "md5": "b9d23a9ed9f3b905228b18f9543ced7f",
+      "description": "A. cherimola seeds 4",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "cherimoyafare_asset_6.jpg",
+      "size_kb": 144.01,
+      "md5": "9f701236b442f99ded0ec3dc01ee7b33",
+      "description": "A. cherimola seeds 5",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "cherimoyafare_asset_7.jpg",
+      "size_kb": 201.04,
+      "md5": "dd975db05d6d9532fb68da58af7e09ae",
+      "description": "Annona cherimola Brazil",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "cherimoyafare_asset_8.jpg",
+      "size_kb": 173.24,
+      "md5": "a7e7d7f7bdf13316ad236c14383d30fa",
+      "description": "Annona cherimola Miller AM AK30952",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "cherimoyafare_asset_9.jpg",
+      "size_kb": 144.43,
+      "md5": "548d8ff3842750c7bfa8fd7f671cfc87",
+      "description": "Annona cherimola Miller AM AK31255",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "cherimoyafare_asset_10.jpg",
+      "size_kb": 59.56,
+      "md5": "434871ff1a7835bb0fc1a321417bbd6f",
+      "description": "Annona cherimola fruit Pedra Bela",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "cherimoyafare_asset_11.jpg",
+      "size_kb": 121.18,
+      "md5": "bb8f3d508536e70eb9cd3495eefaf377",
+      "description": "Annona cherimola kz01",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "cherimoyafare_asset_12.jpg",
+      "size_kb": 120.12,
+      "md5": "95ebfcdcfe9bdba8a7c6ab2feb0d167e",
+      "description": "Annona cherimola seeds",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "cherimoyafare_asset_13.jpg",
+      "size_kb": 132.52,
+      "md5": "661a2d6c8a0402940931da99179bb59e",
+      "description": "Annona cherimola seeds 1",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "cherimoyafare_asset_14.jpg",
+      "size_kb": 168.62,
+      "md5": "5e6f2ee851b12558a0a59f4223645548",
+      "description": "Annona cherimola seeds 2",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "cherimoyafare_asset_15.jpg",
+      "size_kb": 83.03,
+      "md5": "c432a0a6e5f7cc9e3e74b784a67d1d96",
+      "description": "Atemola cross of Annona cherimola",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "cherimoyafare_asset_16.jpg",
+      "size_kb": 269.53,
+      "md5": "7311a59c8c0c99b85f4514c3042414d2",
+      "description": "Cherimoya Annona cherimola in Cal",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "cherimoyafare_asset_17.jpg",
+      "size_kb": 241.73,
+      "md5": "d2b26dbfd335b9d5154c656afc9542d0",
+      "description": "Cherimoya fruit grower",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "cherimoyafare_asset_18.jpg",
+      "size_kb": 224.6,
+      "md5": "6bf84d0bac986570ff1df6a94d2991fc",
+      "description": "Cherimoya fruit grower in Brazil",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "cherimoyafare_asset_19.jpg",
+      "size_kb": 51.48,
+      "md5": "a7511276beede107446b7cc868a49332",
+      "description": "Cherimoya fruit of the cultivar Mad",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "cherimoyafare_asset_20.jpg",
+      "size_kb": 97.08,
+      "md5": "49a3cb6a9c5dcbfd6f9f5dcfff4a4954",
+      "description": "Cherimoya fruits",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://cherimoyafare.com/sitemap.xml",
+    "robots": "https://cherimoyafare.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
